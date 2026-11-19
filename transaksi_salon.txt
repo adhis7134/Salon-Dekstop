@@ -1,0 +1,24 @@
+Nama: ucok
+Layanan: Creambath
+Harga: Rp40.000,00
+Member: Tidak
+Total Bayar: Rp40.000,00
+Jumlah Bayar: Rp8.000.000,00
+Kembalian: Rp7.960.000,00
+------------
+Nama: ucok
+Layanan: Hair Coloring
+Harga: Rp60.000,00
+Member: Ya
+Total Bayar: Rp54.000,00
+Jumlah Bayar: Rp100.000,00
+Kembalian: Rp46.000,00
+------------
+Nama: ucok
+Layanan: Hair Coloring
+Harga: Rp60.000,00
+Member: Ya
+Total Bayar: Rp54.000,00
+Jumlah Bayar: Rp100.000,00
+Kembalian: Rp46.000,00
+------------
